@@ -21,6 +21,8 @@ zeta: The threshold for determining when to update cluster centers during the se
 gamma: The threshold for determining when to update cluster membership during the second phase. Default is 0.2.  
 dataset_name: The name of the dataset. Default is 'MNIST'.  
 
+For example, this run sets MaxIter1 to 150.
+
 
 PyTorch implementation of DCSS: Deep Clustering with Self-supervision using Pairwise Data Similarities
 
