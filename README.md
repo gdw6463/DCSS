@@ -1,7 +1,9 @@
 # DCSS
 Code to run:
 Open the run.ipynb file in google colab and be careful to check the directory：%cd /content/DCSS/Codes
+
 You can change the parameters and dataset of the train.py file:
+
 AE: The autoencoder model.
 MNet: The mutual information estimation network.
 data_loader: The data loader for accessing the dataset.
